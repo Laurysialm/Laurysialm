@@ -1,6 +1,6 @@
 <h3 align="center">  
   <br>
- #Hello everybody 👋,my name is Lauriane  <br>
+ ##Hello everybody 👋,my name is Lauriane  <br>
 </h3>                                                    
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauryalmeida/)
