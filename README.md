@@ -33,7 +33,7 @@ I have been an athlete since I was 15 years old, I have always practiced team sp
 
 ##
 
-- Technologies and Tools: 
+- <h3>Technologies and Tools: </h3>
 
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
