@@ -12,9 +12,9 @@ Hello everybody 👋,my name is Lauriane  <br>
 </h3>
 
 
-Meu nome é Lauriane Almeida mas as pessoas me referem a "Lauri", tenho 27 anos 
+Meu nome é Lauriane Almeida mas as pessoas me referem a "Lauri", tenho 29 anos 
  
-Graduanda em Análise desenvolvimento de sistemas - Centro Universitário Estácio Juiz de Fora.
+Graduada em Análise desenvolvimento de sistemas - Centro Universitário Estácio Juiz de Fora.
  
 Descobri minha paixão pela tecnologia a 2 anos, atualmente sou estágiaria em uma empresa multinacional que é voltada para softaware jurídico.
 constantemente me atualizo sobre novas linguagens do mercado tecnológico, me atualizando em cursos de linguagens que já estudei/trabalho.
