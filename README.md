@@ -22,9 +22,9 @@ constantemente me atualizo sobre novas linguagens do mercado tecnológico, me at
 Sou atleta desde os 15 anos de idade,sempre pratiquei esportes coletivos, logo os esportes me ensinaram a ter boa comunicação e saber exercer o trabalho em equipe.
 
 ##
-My name is Lauriane Almeida but people refer to me as "Lauri", I am 27 years old. 
+My name is Lauriane Almeida but people refer to me as "Lauri", I am 29 years old. 
  
-I'm undergraduate in systems development analysis at Estácio Juiz de Fora University Center.
+I'm graduate in systems development analysis at Estácio Juiz de Fora University Center.
  
 I discovered my passion for technology 2 years ago, currently I'm a trainee in a multinational company that works with legal software.
 I constantly update myself about new languages in the technology market, updating myself in language courses that I have already studied/worked in.
