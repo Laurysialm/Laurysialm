@@ -16,7 +16,7 @@ Meu nome é Lauriane Almeida mas as pessoas me referem a "Lauri", tenho 29 anos
  
 Graduada em Análise desenvolvimento de sistemas - Centro Universitário Estácio Juiz de Fora.
  
-Descobri minha paixão pela tecnologia a 2 anos, atualmente sou estágiaria em uma empresa multinacional que é voltada para softaware jurídico.
+Descobri minha paixão pela tecnologia a 2 anos, atuo como Análista de Qualidade em uma empresa multinacional que é voltada para software jurídico.
 constantemente me atualizo sobre novas linguagens do mercado tecnológico, me atualizando em cursos de linguagens que já estudei/trabalho.
  
 Sou atleta desde os 15 anos de idade,sempre pratiquei esportes coletivos, logo os esportes me ensinaram a ter boa comunicação e saber exercer o trabalho em equipe.
@@ -26,7 +26,7 @@ My name is Lauriane Almeida but people refer to me as "Lauri", I am 29 years old
  
 I'm graduate in systems development analysis at Estácio Juiz de Fora University Center.
  
-I discovered my passion for technology 2 years ago, currently I'm a trainee in a multinational company that works with legal software.
+I discovered my passion for technology 2 years ago, i work as a quality analyst in a multinational company that works with legal software.
 I constantly update myself about new languages in the technology market, updating myself in language courses that I have already studied/worked in.
  
 I have been an athlete since I was 15 years old, I have always practiced team sports, so sports have taught me to have good communication skills and to know how to work in a team.
